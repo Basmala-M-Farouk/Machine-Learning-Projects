@@ -1,4 +1,4 @@
-# ⚙️ OptiLogiX  
+# ⚙️ LogiLearn  
 **Optimizer Strategies for Logistic Regression in Binary Classification**
 
 ## 📘 Overview
